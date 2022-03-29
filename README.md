@@ -1,6 +1,6 @@
 # Hi, I'm Charles Aggasid!
 
-I'm currently a Software Developer in training at [Codeup](https://codeup.com/program/full-stack-web-development/). I am currently serving in the Army Reserves as a Finance Technician (2 years) and I was also a  Culinary Sergeant for 6 years. I was a part owner of a small trucking business in San Antonio. It has always been my interest to do Software Development and I’m taking the initiative to pursue it right now given the time and opportunity. My goal is to build a career in tech so I can help my family. I always strive to work hard and learn as much as I can to improve myself.
+Software Developer and member of the Army Reserves with a background in office administration. Experience with owning and operating a family business provided the opportunity to develop as a leader. The desire to enter a career field that will provide unlimited growth opportunities and a lifelong interest in computers and technology inspired the transition to web development. Looking to bring my entrepreneurial spirit and creativity to a collaborative environment and create engaging websites.
 
 
 - 🌱 I’m currently learning HTML, CSS - Bootstrap, Javascript - jQuery, MySQL, Java,
