@@ -1,5 +1,9 @@
 # Hi, I'm Charles Aggasid!
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/O2PhyxtkFwCtUO6nen/giphy.gif" width="100"/>
+</div>
+
 Software Developer and member of the Army Reserves with a background in office administration. Experience with owning and operating a family business provided the opportunity to develop as a leader. The desire to enter a career field that will provide unlimited growth opportunities and a lifelong interest in computers and technology inspired the transition to web development. Looking to bring my entrepreneurial spirit and creativity to a collaborative environment and create engaging websites.
 
 
