@@ -4,6 +4,12 @@
   <img src="https://media.giphy.com/media/O2PhyxtkFwCtUO6nen/giphy.gif" width="100"/>
 </div>
 
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/charles-jazper/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
 Software Developer and member of the Army Reserves with a background in office administration. Experience with owning and operating a family business provided the opportunity to develop as a leader. The desire to enter a career field that will provide unlimited growth opportunities and a lifelong interest in computers and technology inspired the transition to web development. Looking to bring my entrepreneurial spirit and creativity to a collaborative environment and create engaging websites.
 
 
