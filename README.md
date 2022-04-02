@@ -20,16 +20,14 @@
 Software Developer and member of the Army Reserves with a background in office administration. Experience with owning and operating a family business provided the opportunity to develop as a leader. The desire to enter a career field that will provide unlimited growth opportunities and a lifelong interest in computers and technology inspired the transition to web development. Looking to bring my entrepreneurial spirit and creativity to a collaborative environment and create engaging websites.
 
 ### About me:
-- 🌱 I’m currently learning HTML, CSS - Bootstrap, Javascript - jQuery, MySQL, Java,
 - 💞️ I’m looking to collaborate on Front End Development.
 - 📫 email: charles.aggasid01@gmail.com
 - 📞 phone number: 808-339-6312
 ---
 ### 🔥 My Stats:
-![Charles's GitHub stats](https://github-readme-stats.vercel.app/api?username=charlesaggasid&count_private=true&show_icons=true&theme=dracula)
-
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=charlesaggasid)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charlesaggasid&layout=compact)](https://github.com/charlesaggasid/github-readme-stats)
-
+![Charles's GitHub stats](https://github-readme-stats.vercel.app/api?username=charlesaggasid&count_private=true&show_icons=true&theme=dracula)
 [![Charles Streak](http://github-readme-streak-stats.herokuapp.com?user=charlesaggasid&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
