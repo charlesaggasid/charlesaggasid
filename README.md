@@ -36,10 +36,9 @@ Software Developer and member of the Army Reserves with a background in office a
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring"  alt="Spring" width="40" height="40"/>&nbsp;  
 </div>
----
-
-
-###:fire: My Stats:
+<hr>
+<h3>🔥 My Stats :</h3>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=charlesaggasid&theme=solarized-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 
 <!---
