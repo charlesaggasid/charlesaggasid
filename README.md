@@ -25,6 +25,14 @@ Software Developer and member of the Army Reserves with a background in office a
 - 📫 email: charles.aggasid01@gmail.com
 - 📞 phone number: 808-339-6312
 ---
+### 🔥 My Stats:
+![Charles's GitHub stats](https://github-readme-stats.vercel.app/api?username=charlesaggasid&count_private=true&show_icons=true&theme=dracula)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charlesaggasid&layout=compact)](https://github.com/charlesaggasid/github-readme-stats)
+
+[![Charles Streak](http://github-readme-streak-stats.herokuapp.com?user=charlesaggasid&theme=dark&background=000000)](https://git.io/streak-stats)
+
+
 ### 🛠️  Languages and Tools:
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -36,13 +44,6 @@ Software Developer and member of the Army Reserves with a background in office a
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring"  alt="Spring" width="40" height="40"/>&nbsp;  
 </div>
-
-<hr>
-<h3>🔥 My Stats :</h3>
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=charlesjazper)
-
-
-
 <!---
 charlesaggasid/charlesaggasid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
