@@ -1,8 +1,3 @@
-<h1 id="">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hi, I'm Charles!
-</h1>
-
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/O2PhyxtkFwCtUO6nen/giphy.gif" width="100"/>
 </div>
@@ -25,8 +20,6 @@ Software Developer and member of the Army Reserves with a background in office a
 - 📞 phone number: 808-339-6312
 ---
 ### 🔥 My Stats:
-[![wakatime](https://wakatime.com/badge/user/78844542-c86e-49c1-9715-440611d9ece3.svg)](https://wakatime.com/@78844542-c86e-49c1-9715-440611d9ece3)  
-[![charlesaggasid's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=charlesaggasid)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charlesaggasid&layout=compact)](https://github.com/charlesaggasid/github-readme-stats)
 ![Charles's GitHub stats](https://github-readme-stats.vercel.app/api?username=charlesaggasid&count_private=true&show_icons=true&theme=dracula)
 [![Charles Streak](http://github-readme-streak-stats.herokuapp.com?user=charlesaggasid&theme=dark&background=000000)](https://git.io/streak-stats)
