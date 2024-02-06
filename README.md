@@ -12,12 +12,12 @@
   <img src="https://komarev.com/ghpvc/?username=charlesaggasid&style=flat-square&color=blue" alt=""/>
 </div>
 
-Software Developer and member of the Army Reserves with a background in office administration. Experience with owning and operating a family business provided the opportunity to develop as a leader. The desire to enter a career field that will provide unlimited growth opportunities and a lifelong interest in computers and technology inspired the transition to web development. Looking to bring my entrepreneurial spirit and creativity to a collaborative environment and create engaging websites.
+Software Developer with a background in office administration. Experience with owning and operating a family business provided the opportunity to develop as a leader. The desire to enter a career field that will provide unlimited growth opportunities and a lifelong interest in computers and technology inspired the transition to web development. Looking to bring my entrepreneurial spirit and creativity to a collaborative environment and create engaging websites.
 
 ### About me:
 - 💞️ I’m looking to collaborate on Front End Development.
-- 📫 email: charles.aggasid01@gmail.com
-- 📞 phone number: 808-339-6312
+- 📫 email: charlesjazper@gmail.com
+- 📞 phone number: 
 ---
 ### 🔥 My Stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charlesaggasid&layout=compact)](https://github.com/charlesaggasid/github-readme-stats)
