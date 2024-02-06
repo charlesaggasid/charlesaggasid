@@ -20,7 +20,7 @@ Software Developer with a background in office administration. Experience with o
 - 📞 phone number: 
 ---
 ### 🔥 My Stats:
-<!--START_SECTION:waka-->
+
 name: Waka Readme
 
 on:
@@ -37,7 +37,7 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-<!--END_SECTION:waka-->
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charlesaggasid&layout=compact)](https://github.com/charlesaggasid/github-readme-stats)
 ![Charles's GitHub stats](https://github-readme-stats.vercel.app/api?username=charlesaggasid&count_private=true&show_icons=true&theme=dracula)
