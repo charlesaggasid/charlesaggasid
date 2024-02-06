@@ -33,7 +33,7 @@ jobs:
     name: Profile Readme Development Stats
     runs-on: mac-latest
     steps:
-      - uses: anmol098/waka-readme-stats@v4
+      - uses: charlesaggasid/waka-readme-stats@v4
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
