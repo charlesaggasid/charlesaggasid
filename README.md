@@ -21,7 +21,7 @@ Software Developer with a background in office administration. Experience with o
 ---
 ### 🔥 My Stats:
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-469%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-470%20hrs%2033%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-187-blue)
 
@@ -29,31 +29,31 @@ Software Developer with a background in office administration. Experience with o
 
 > 📦 88.6 kB Used in GitHub's Storage 
  > 
-> 🏆 57 Contributions in the Year 2024
+> 🏆 59 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 29 Public Repositories 
  > 
-> 🔑 13 Private Repositories 
+> 🔑 14 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                173 commits         ███████████░░░░░░░░░░░░░░   45.05 % 
-🌆 Daytime                156 commits         ██████████░░░░░░░░░░░░░░░   40.62 % 
-🌃 Evening                54 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
+🌞 Morning                173 commits         ███████████░░░░░░░░░░░░░░   44.94 % 
+🌆 Daytime                156 commits         ██████████░░░░░░░░░░░░░░░   40.52 % 
+🌃 Evening                55 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
 🌙 Night                  1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   68 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.71 % 
-Tuesday                  97 commits          ██████░░░░░░░░░░░░░░░░░░░   25.26 % 
-Wednesday                67 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.45 % 
-Thursday                 57 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
-Friday                   45 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
-Saturday                 39 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
+Monday                   69 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.92 % 
+Tuesday                  97 commits          ██████░░░░░░░░░░░░░░░░░░░   25.19 % 
+Wednesday                67 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.40 % 
+Thursday                 57 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
+Friday                   45 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
+Saturday                 39 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
 Sunday                   11 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
 ```
 
@@ -103,7 +103,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/charlesaggasid/charlesaggasid/main/assets/bar_graph.png)
 
 
- Last Updated on 12/02/2024 18:38:54 UTC
+ Last Updated on 13/02/2024 18:39:28 UTC
 <!--END_SECTION:waka-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charlesaggasid&layout=compact)](https://github.com/charlesaggasid/github-readme-stats)
