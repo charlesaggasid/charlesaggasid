@@ -21,9 +21,9 @@ Software Developer with a background in office administration. Experience with o
 ---
 ### 🔥 My Stats:
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-473%20hrs%2043%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-473%20hrs%2040%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-187-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -64,20 +64,16 @@ Sunday                   11 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Java                     4 hrs               █████████████████████████   99.71 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
-GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+Java                     2 hrs 52 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Intellijidea             4 hrs 1 min         █████████████████████████   100.00 % 
+Intellijidea             2 hrs 52 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-untitled                 2 hrs 19 mins       ██████████████░░░░░░░░░░░   57.84 % 
-java-basics              1 hr 41 mins        ███████████░░░░░░░░░░░░░░   42.08 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+untitled                 2 hrs 52 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      4 hrs 1 min         █████████████████████████   100.00 % 
+Mac                      2 hrs 52 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -97,7 +93,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/charlesaggasid/charlesaggasid/main/assets/bar_graph.png)
 
 
- Last Updated on 20/02/2024 18:39:42 UTC
+ Last Updated on 21/02/2024 18:38:44 UTC
 <!--END_SECTION:waka-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charlesaggasid&layout=compact)](https://github.com/charlesaggasid/github-readme-stats)
