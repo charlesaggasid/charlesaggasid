@@ -21,7 +21,7 @@ Software Developer with a background in office administration. Experience with o
 ---
 ### 🔥 My Stats:
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-475%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-475%20hrs%206%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -64,16 +64,17 @@ Sunday                   11 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Java                     1 hr 52 mins        █████████████████████████   100.00 % 
+Java                     1 hr 51 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Intellijidea             1 hr 52 mins        █████████████████████████   100.00 % 
+Intellijidea             1 hr 51 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-untitled                 1 hr 52 mins        █████████████████████████   100.00 % 
+untitled                 1 hr 47 mins        ████████████████████████░   96.85 % 
+crudApp-plainJava        3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
 
 💻 Operating System: 
-Mac                      1 hr 52 mins        █████████████████████████   100.00 % 
+Mac                      1 hr 51 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -93,7 +94,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/charlesaggasid/charlesaggasid/main/assets/bar_graph.png)
 
 
- Last Updated on 22/02/2024 18:38:41 UTC
+ Last Updated on 23/02/2024 18:38:41 UTC
 <!--END_SECTION:waka-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charlesaggasid&layout=compact)](https://github.com/charlesaggasid/github-readme-stats)
