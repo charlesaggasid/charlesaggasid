@@ -21,13 +21,15 @@ Software Developer with a background in office administration. Experience with o
 ---
 ### 🔥 My Stats:
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-477%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-477%20hrs%2017%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 88.6 kB Used in GitHub's Storage 
+ > 
+> 🏆 61 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -62,17 +64,21 @@ Sunday                   11 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-JavaScript               2 mins              █████████████████████████   99.74 % 
-EJS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+HTML                     18 mins             ████████████████████░░░░░   81.58 % 
+JavaScript               3 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.50 % 
+IDEA_MODULE              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+EJS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-Intellijidea             2 mins              █████████████████████████   100.00 % 
+Intellijidea             23 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-colt-full-stack-web-devel2 mins              █████████████████████████   100.00 % 
+web-dev                  14 mins             ███████████████░░░░░░░░░░   61.43 % 
+Unknown Project          5 mins              ██████░░░░░░░░░░░░░░░░░░░   22.04 % 
+colt-full-stack-web-devel3 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.53 % 
 
 💻 Operating System: 
-Mac                      2 mins              █████████████████████████   100.00 % 
+Mac                      23 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -92,7 +98,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/charlesaggasid/charlesaggasid/main/assets/bar_graph.png)
 
 
- Last Updated on 13/03/2024 18:38:30 UTC
+ Last Updated on 14/03/2024 18:38:29 UTC
 <!--END_SECTION:waka-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charlesaggasid&layout=compact)](https://github.com/charlesaggasid/github-readme-stats)
