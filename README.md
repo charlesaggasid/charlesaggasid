@@ -64,20 +64,16 @@ Sunday                   11 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-HTML                     18 mins             ███████████████████████░░   91.46 % 
-JavaScript               1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
-IDEA_MODULE              0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Intellijidea             20 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-web-dev                  14 mins             █████████████████░░░░░░░░   68.87 % 
-Unknown Project          5 mins              ██████░░░░░░░░░░░░░░░░░░░   24.72 % 
-colt-full-stack-web-devel1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      20 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -97,7 +93,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/charlesaggasid/charlesaggasid/main/assets/bar_graph.png)
 
 
- Last Updated on 20/03/2024 18:38:45 UTC
+ Last Updated on 21/03/2024 18:38:31 UTC
 <!--END_SECTION:waka-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charlesaggasid&layout=compact)](https://github.com/charlesaggasid/github-readme-stats)
