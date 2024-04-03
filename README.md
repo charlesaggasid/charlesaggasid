@@ -62,24 +62,16 @@ Sunday                   11 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-HTML                     18 mins             ███████████████████░░░░░░   74.95 % 
-Java                     5 mins              ██████░░░░░░░░░░░░░░░░░░░   22.96 % 
-SQL                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Intellijidea             24 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-web-dev                  18 mins             ███████████████████░░░░░░   74.95 % 
-untitled                 4 mins              █████░░░░░░░░░░░░░░░░░░░░   19.52 % 
-demo                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
-family-tree-app          0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
-colt-full-stack-web-devel0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      24 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -99,7 +91,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/charlesaggasid/charlesaggasid/main/assets/bar_graph.png)
 
 
- Last Updated on 02/04/2024 18:38:58 UTC
+ Last Updated on 03/04/2024 18:38:44 UTC
 <!--END_SECTION:waka-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charlesaggasid&layout=compact)](https://github.com/charlesaggasid/github-readme-stats)
