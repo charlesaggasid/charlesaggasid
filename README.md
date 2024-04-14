@@ -21,8 +21,6 @@ Software Developer with a background in office administration. Experience with o
 ---
 ### 🔥 My Stats:
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-478%20hrs%2025%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -62,20 +60,22 @@ Sunday                   11 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Java                     18 mins             ████████████████████████░   97.36 % 
-EJS                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+Java                     22 mins             ████████████████████████░   97.81 % 
+EJS                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-Intellijidea             18 mins             █████████████████████████   100.00 % 
+Intellijidea             22 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-crudApp-plainJava        18 mins             ████████████████████████░   97.36 % 
-colt-full-stack-web-devel0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
+crudApp-plainJava        22 mins             ████████████████████████░   97.81 % 
+colt-full-stack-web-devel0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
+family-tree-app          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 Operating System: 
-Mac                      18 mins             █████████████████████████   100.00 % 
+Mac                      22 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -95,7 +95,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/charlesaggasid/charlesaggasid/main/assets/bar_graph.png)
 
 
- Last Updated on 13/04/2024 18:38:51 UTC
+ Last Updated on 14/04/2024 22:58:17 UTC
 <!--END_SECTION:waka-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charlesaggasid&layout=compact)](https://github.com/charlesaggasid/github-readme-stats)
