@@ -21,13 +21,15 @@ Software Developer with a background in office administration. Experience with o
 ---
 ### 🔥 My Stats:
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-489%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-489%20hrs%2026%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 88.6 kB Used in GitHub's Storage 
+ > 
+> 🏆 74 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -62,23 +64,22 @@ Sunday                   11 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-JavaScript               1 hr 48 mins        ███████████████████████░░   92.45 % 
-HTML                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
-GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
-Java                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
-EJS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+JavaScript               42 mins             █████████████████████░░░░   85.14 % 
+HTML                     6 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
+Java                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+EJS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-Intellijidea             1 hr 57 mins        █████████████████████████   100.00 % 
+Intellijidea             49 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-web-exercises            59 mins             █████████████░░░░░░░░░░░░   50.57 % 
-dom                      47 mins             ██████████░░░░░░░░░░░░░░░   40.62 % 
-colt-full-stack-web-devel10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
-crudApp-plainJava        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+web-exercises            39 mins             ████████████████████░░░░░   79.06 % 
+colt-full-stack-web-devel10 mins             █████░░░░░░░░░░░░░░░░░░░░   20.54 % 
+crudApp-plainJava        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
 
 💻 Operating System: 
-Mac                      1 hr 57 mins        █████████████████████████   100.00 % 
+Mac                      49 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -98,7 +99,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/charlesaggasid/charlesaggasid/main/assets/bar_graph.png)
 
 
- Last Updated on 29/04/2024 18:40:34 UTC
+ Last Updated on 30/04/2024 18:40:16 UTC
 <!--END_SECTION:waka-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charlesaggasid&layout=compact)](https://github.com/charlesaggasid/github-readme-stats)
