@@ -21,15 +21,13 @@ Software Developer with a background in office administration. Experience with o
 ---
 ### 🔥 My Stats:
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-509%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-511%20hrs%2010%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 90.6 kB Used in GitHub's Storage 
- > 
-> 🏆 85 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -64,24 +62,24 @@ Sunday                   11 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-JavaScript               8 hrs 50 mins       ██████████████░░░░░░░░░░░   57.76 % 
-EJS                      3 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   20.62 % 
-Java                     1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
-HTML                     1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
-JSON                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
+JavaScript               4 hrs 21 mins       ███████████░░░░░░░░░░░░░░   44.37 % 
+EJS                      2 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   23.83 % 
+Java                     1 hr 23 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
+HTML                     1 hr 11 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
+CSS                      14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
 
 🔥 Editors: 
-Intellijidea             15 hrs 18 mins      █████████████████████████   100.00 % 
+Intellijidea             9 hrs 49 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-yelpCamp-udemy           6 hrs 40 mins       ███████████░░░░░░░░░░░░░░   43.64 % 
-colt-full-stack-web-devel4 hrs 21 mins       ███████░░░░░░░░░░░░░░░░░░   28.46 % 
-star_bucks_app_frontend  1 hr 35 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
-java-continue-learn      1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
-yelpcamp-code-along      1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
+yelpCamp-udemy           4 hrs 23 mins       ███████████░░░░░░░░░░░░░░   44.60 % 
+colt-full-stack-web-devel2 hrs 10 mins       ██████░░░░░░░░░░░░░░░░░░░   22.10 % 
+star_bucks_app_frontend  1 hr 36 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
+java-continue-learn      1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
+yelpcamp-code-along      15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
 
 💻 Operating System: 
-Mac                      15 hrs 18 mins      █████████████████████████   100.00 % 
+Mac                      9 hrs 49 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -101,7 +99,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/charlesaggasid/charlesaggasid/main/assets/bar_graph.png)
 
 
- Last Updated on 15/05/2024 18:39:53 UTC
+ Last Updated on 16/05/2024 18:39:40 UTC
 <!--END_SECTION:waka-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charlesaggasid&layout=compact)](https://github.com/charlesaggasid/github-readme-stats)
