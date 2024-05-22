@@ -21,13 +21,15 @@ Software Developer with a background in office administration. Experience with o
 ---
 ### 🔥 My Stats:
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-513%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-516%20hrs%209%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 90.6 kB Used in GitHub's Storage 
+ > 
+> 🏆 88 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -62,24 +64,24 @@ Sunday                   12 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-HTML                     1 hr 59 mins        ███████░░░░░░░░░░░░░░░░░░   29.18 % 
-JavaScript               1 hr 58 mins        ███████░░░░░░░░░░░░░░░░░░   28.95 % 
-Java                     1 hr 56 mins        ███████░░░░░░░░░░░░░░░░░░   28.55 % 
-GitIgnore file           24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
-CSS                      14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
+TypeScript               2 hrs 10 mins       ███████░░░░░░░░░░░░░░░░░░   29.13 % 
+JavaScript               2 hrs 9 mins        ███████░░░░░░░░░░░░░░░░░░   28.96 % 
+Java                     1 hr 42 mins        ██████░░░░░░░░░░░░░░░░░░░   22.91 % 
+HTML                     48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
+GitIgnore file           16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
 
 🔥 Editors: 
-Intellijidea             6 hrs 48 mins       █████████████████████████   100.00 % 
+Intellijidea             7 hrs 26 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-star_bucks_app_frontend  1 hr 50 mins        ███████░░░░░░░░░░░░░░░░░░   26.94 % 
-js-projects              1 hr 41 mins        ██████░░░░░░░░░░░░░░░░░░░   24.73 % 
-web-exercises            1 hr 7 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.51 % 
-adlister                 1 hr 4 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.78 % 
-java-continue-learn      28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
+next-js                  2 hrs 27 mins       ████████░░░░░░░░░░░░░░░░░   32.98 % 
+js-projects              1 hr 41 mins        ██████░░░░░░░░░░░░░░░░░░░   22.66 % 
+web-exercises            1 hr 7 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.13 % 
+adlister                 1 hr 4 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.45 % 
+crudApp-plainJava        25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
 
 💻 Operating System: 
-Mac                      6 hrs 48 mins       █████████████████████████   100.00 % 
+Mac                      7 hrs 26 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -99,7 +101,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/charlesaggasid/charlesaggasid/main/assets/bar_graph.png)
 
 
- Last Updated on 21/05/2024 18:40:02 UTC
+ Last Updated on 22/05/2024 18:40:26 UTC
 <!--END_SECTION:waka-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charlesaggasid&layout=compact)](https://github.com/charlesaggasid/github-readme-stats)
