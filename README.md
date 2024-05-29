@@ -29,6 +29,8 @@ Software Developer with a background in office administration. Experience with o
 
 > 📦 91.6 kB Used in GitHub's Storage 
  > 
+> 🏆 92 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 30 Public Repositories 
@@ -62,21 +64,20 @@ Sunday                   12 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-TypeScript               3 hrs 58 mins       ██████████████████████░░░   86.29 % 
-JavaScript               18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
-Text                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
-CSS                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
-JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
+TypeScript               1 hr 48 mins        █████████████████████░░░░   83.94 % 
+JavaScript               7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
+Text                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
+JSON                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
+Env File                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
 
 🔥 Editors: 
-Intellijidea             4 hrs 35 mins       █████████████████████████   100.00 % 
+Intellijidea             2 hrs 8 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-next-js                  4 hrs 35 mins       █████████████████████████   100.00 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+next-js                  2 hrs 8 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      4 hrs 35 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 8 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -96,7 +97,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/charlesaggasid/charlesaggasid/main/assets/bar_graph.png)
 
 
- Last Updated on 28/05/2024 18:40:19 UTC
+ Last Updated on 29/05/2024 18:39:39 UTC
 <!--END_SECTION:waka-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charlesaggasid&layout=compact)](https://github.com/charlesaggasid/github-readme-stats)
