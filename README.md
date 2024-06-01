@@ -21,7 +21,7 @@ Software Developer with a background in office administration. Experience with o
 ---
 ### 🔥 My Stats:
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-520%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-522%20hrs%2034%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -29,11 +29,13 @@ Software Developer with a background in office administration. Experience with o
 
 > 📦 91.6 kB Used in GitHub's Storage 
  > 
+> 🏆 93 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 30 Public Repositories 
  > 
-> 🔑 17 Private Repositories 
+> 🔑 18 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -62,16 +64,24 @@ Sunday                   12 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     2 hrs 39 mins       ███████████████████░░░░░░   74.80 % 
+GitIgnore file           30 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
+SQL                      20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
+XML                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Intellijidea             3 hrs 33 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+learn-java               1 hr 28 mins        ██████████░░░░░░░░░░░░░░░   41.71 % 
+family-tree-app-spring   1 hr 3 mins         ███████░░░░░░░░░░░░░░░░░░   29.62 % 
+familyTreeApp            35 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
+springblog               10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
+java-basics-oop          6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      3 hrs 33 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -91,7 +101,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/charlesaggasid/charlesaggasid/main/assets/bar_graph.png)
 
 
- Last Updated on 30/05/2024 18:41:27 UTC
+ Last Updated on 01/06/2024 18:39:21 UTC
 <!--END_SECTION:waka-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charlesaggasid&layout=compact)](https://github.com/charlesaggasid/github-readme-stats)
