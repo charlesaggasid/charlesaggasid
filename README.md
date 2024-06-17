@@ -21,13 +21,15 @@ Software Developer with a background in office administration. Experience with o
 ---
 ### 🔥 My Stats:
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-535%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-535%20hrs%2042%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 96.2 kB Used in GitHub's Storage 
+ > 
+> 🏆 103 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -62,7 +64,7 @@ Sunday                   12 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-CSS                      5 hrs 49 mins       █████████████░░░░░░░░░░░░   52.47 % 
+CSS                      5 hrs 49 mins       █████████████░░░░░░░░░░░░   52.46 % 
 HTML                     3 hrs 29 mins       ████████░░░░░░░░░░░░░░░░░   31.50 % 
 Text                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
 Markdown                 30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
@@ -72,7 +74,7 @@ Java                     17 mins             █░░░░░░░░░░�
 Intellijidea             11 hrs 6 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-omniFood_spa             8 hrs 50 mins       ████████████████████░░░░░   79.68 % 
+omniFood_spa             8 hrs 50 mins       ████████████████████░░░░░   79.67 % 
 html-css                 1 hr 35 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
 party                    17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
 codeup-web-exercises     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
@@ -99,7 +101,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/charlesaggasid/charlesaggasid/main/assets/bar_graph.png)
 
 
- Last Updated on 16/06/2024 18:40:23 UTC
+ Last Updated on 17/06/2024 18:40:05 UTC
 <!--END_SECTION:waka-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charlesaggasid&layout=compact)](https://github.com/charlesaggasid/github-readme-stats)
