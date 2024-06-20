@@ -21,15 +21,13 @@ Software Developer with a background in office administration. Experience with o
 ---
 ### 🔥 My Stats:
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-535%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-536%20hrs%2019%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 96.2 kB Used in GitHub's Storage 
- > 
-> 🏆 103 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -64,25 +62,23 @@ Sunday                   12 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-CSS                      5 hrs 49 mins       ██████████████░░░░░░░░░░░   54.79 % 
-HTML                     2 hrs 39 mins       ██████░░░░░░░░░░░░░░░░░░░   25.02 % 
-Java                     49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
-Text                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
-Markdown                 30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
+CSS                      5 hrs 17 mins       █████████████░░░░░░░░░░░░   52.13 % 
+HTML                     2 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   23.17 % 
+Java                     1 hr 12 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
+Text                     37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
+Markdown                 30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
 
 🔥 Editors: 
-IntelliJ IDEA            10 hrs 38 mins      █████████████████████████   99.99 % 
+IntelliJ IDEA            10 hrs 8 mins       █████████████████████████   99.99 % 
 Intellijidea             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🐱‍💻 Projects: 
-omniFood_spa             8 hrs 50 mins       █████████████████████░░░░   83.20 % 
-html-css                 41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
-howLong                  37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
-party                    17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
-codeup-web-exercises     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+omniFood_spa             8 hrs 50 mins       ██████████████████████░░░   87.26 % 
+howLong                  59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
+party                    17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
 
 💻 Operating System: 
-Mac                      10 hrs 38 mins      █████████████████████████   100.00 % 
+Mac                      10 hrs 8 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -102,7 +98,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/charlesaggasid/charlesaggasid/main/assets/bar_graph.png)
 
 
- Last Updated on 19/06/2024 18:41:34 UTC
+ Last Updated on 20/06/2024 18:40:44 UTC
 <!--END_SECTION:waka-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charlesaggasid&layout=compact)](https://github.com/charlesaggasid/github-readme-stats)
