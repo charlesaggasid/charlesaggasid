@@ -29,8 +29,6 @@ Software Developer with a background in office administration. Experience with o
 
 > 📦 96.2 kB Used in GitHub's Storage 
  > 
-> 🏆 103 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 31 Public Repositories 
@@ -64,8 +62,8 @@ Sunday                   12 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Java                     54 mins             ███████████████████████░░   91.27 % 
-GitIgnore file           5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
+Java                     54 mins             ███████████████████████░░   91.26 % 
+GitIgnore file           5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
 XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
@@ -73,8 +71,7 @@ IntelliJ IDEA            59 mins             ███████████�
 Intellijidea             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🐱‍💻 Projects: 
-howLong                  59 mins             █████████████████████████   99.95 % 
-party                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+howLong                  59 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
 Mac                      59 mins             █████████████████████████   100.00 % 
@@ -97,7 +94,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/charlesaggasid/charlesaggasid/main/assets/bar_graph.png)
 
 
- Last Updated on 23/06/2024 18:39:24 UTC
+ Last Updated on 24/06/2024 18:41:10 UTC
 <!--END_SECTION:waka-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charlesaggasid&layout=compact)](https://github.com/charlesaggasid/github-readme-stats)
