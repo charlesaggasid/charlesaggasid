@@ -29,6 +29,8 @@ Software Developer with a background in office administration. Experience with o
 
 > 📦 96.3 kB Used in GitHub's Storage 
  > 
+> 🏆 0 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 31 Public Repositories 
@@ -62,23 +64,16 @@ Sunday                   12 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Java                     4 hrs 15 mins       █████████████████░░░░░░░░   68.67 % 
-XML                      48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
-Java Properties          25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
-Properties               16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
-SQL                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ IDEA            6 hrs 12 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-familyRoots              5 hrs 17 mins       █████████████████████░░░░   85.37 % 
-Books4Trade              44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
-log4j-tut                8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
-Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      6 hrs 12 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -98,7 +93,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/charlesaggasid/charlesaggasid/main/assets/bar_graph.png)
 
 
- Last Updated on 03/01/2025 18:44:46 UTC
+ Last Updated on 04/01/2025 18:43:20 UTC
 <!--END_SECTION:waka-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charlesaggasid&layout=compact)](https://github.com/charlesaggasid/github-readme-stats)
