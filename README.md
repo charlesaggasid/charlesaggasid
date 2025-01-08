@@ -62,16 +62,22 @@ Sunday                   12 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     32 mins             ████████████████████████░   96.62 % 
+XML                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
+SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+Properties               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ IDEA            33 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+codeup-java-adlister     23 mins             ██████████████████░░░░░░░   72.01 % 
+codeup-java-exercises-2  5 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.28 % 
+codeup-java-exercises    3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
+familyRoots              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      33 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -91,7 +97,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/charlesaggasid/charlesaggasid/main/assets/bar_graph.png)
 
 
- Last Updated on 07/01/2025 18:45:42 UTC
+ Last Updated on 08/01/2025 18:46:00 UTC
 <!--END_SECTION:waka-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charlesaggasid&layout=compact)](https://github.com/charlesaggasid/github-readme-stats)
