@@ -21,15 +21,13 @@ Software Developer with a background in office administration. Experience with o
 ---
 ### 🔥 My Stats:
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-544%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-548%20hrs%2056%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 96.3 kB Used in GitHub's Storage 
- > 
-> 🏆 9 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -64,19 +62,19 @@ Sunday                   12 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Java                     2 hrs 58 mins       ███████████████░░░░░░░░░░   60.75 % 
-Java Properties          35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
-HTML                     33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
-Other                    13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
-XML                      13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
+Java                     2 hrs 58 mins       ███████████████░░░░░░░░░░   60.70 % 
+Java Properties          35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
+HTML                     33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
+Other                    13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
+XML                      13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
 
 🔥 Editors: 
 IntelliJ IDEA            4 hrs 53 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-spring-boot-2025         3 hrs 26 mins       ██████████████████░░░░░░░   70.58 % 
-familyRoots-java         36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
-family-roots             29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.01 % 
+spring-boot-2025         3 hrs 26 mins       ██████████████████░░░░░░░   70.53 % 
+familyRoots-java         36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
+family-roots             29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.09 % 
 java-basics              17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
 java-adlister            2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
 
@@ -101,7 +99,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/charlesaggasid/charlesaggasid/main/assets/bar_graph.png)
 
 
- Last Updated on 16/01/2025 18:44:10 UTC
+ Last Updated on 17/01/2025 18:43:47 UTC
 <!--END_SECTION:waka-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charlesaggasid&layout=compact)](https://github.com/charlesaggasid/github-readme-stats)
