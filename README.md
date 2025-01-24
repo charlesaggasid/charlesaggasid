@@ -64,15 +64,15 @@ Sunday                   12 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Java                     6 mins              ██████████████████░░░░░░░   70.45 % 
-Java Properties          2 mins              ███████░░░░░░░░░░░░░░░░░░   29.55 % 
+Java                     6 mins              ██████████████████░░░░░░░   72.22 % 
+Java Properties          2 mins              ███████░░░░░░░░░░░░░░░░░░   27.78 % 
 
 🔥 Editors: 
 IntelliJ IDEA            9 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-spring-boot-2025         6 mins              ██████████████████░░░░░░░   70.45 % 
-family-roots             2 mins              ███████░░░░░░░░░░░░░░░░░░   29.55 % 
+spring-boot-2025         6 mins              ██████████████████░░░░░░░   72.22 % 
+family-roots             2 mins              ███████░░░░░░░░░░░░░░░░░░   27.78 % 
 
 💻 Operating System: 
 Mac                      9 mins              █████████████████████████   100.00 % 
@@ -95,7 +95,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/charlesaggasid/charlesaggasid/main/assets/bar_graph.png)
 
 
- Last Updated on 23/01/2025 18:45:23 UTC
+ Last Updated on 24/01/2025 18:44:33 UTC
 <!--END_SECTION:waka-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charlesaggasid&layout=compact)](https://github.com/charlesaggasid/github-readme-stats)
