@@ -21,9 +21,9 @@ Software Developer with a background in office administration. Experience with o
 ---
 ### 🔥 My Stats:
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-549%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-549%20hrs%2017%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 **🐱 My GitHub Data** 
 
@@ -62,18 +62,22 @@ Sunday                   12 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Java                     6 mins              ██████████████████░░░░░░░   72.22 % 
-Java Properties          2 mins              ███████░░░░░░░░░░░░░░░░░░   27.78 % 
+XML                      10 mins             █████████████████████████   99.09 % 
+Java                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+Java Properties          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🔥 Editors: 
-IntelliJ IDEA            9 mins              █████████████████████████   100.00 % 
+IntelliJ IDEA            10 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-spring-boot-2025         6 mins              ██████████████████░░░░░░░   72.22 % 
-family-roots             2 mins              ███████░░░░░░░░░░░░░░░░░░   27.78 % 
+spring-boot-2025         10 mins             █████████████████████████   99.55 % 
+family-roots             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+cj-front-end-coding      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Mac                      9 mins              █████████████████████████   100.00 % 
+Mac                      10 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -93,7 +97,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/charlesaggasid/charlesaggasid/main/assets/bar_graph.png)
 
 
- Last Updated on 29/01/2025 18:44:43 UTC
+ Last Updated on 30/01/2025 18:44:24 UTC
 <!--END_SECTION:waka-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charlesaggasid&layout=compact)](https://github.com/charlesaggasid/github-readme-stats)
