@@ -29,8 +29,6 @@ Software Developer with a background in office administration. Experience with o
 
 > 📦 96.2 kB Used in GitHub's Storage 
  > 
-> 🏆 23 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 30 Public Repositories 
@@ -64,21 +62,19 @@ Sunday                   9 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Java                     43 mins             ███████████████████░░░░░░   75.55 % 
-textmate                 10 mins             █████░░░░░░░░░░░░░░░░░░░░   18.87 % 
-HTML                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
-Properties               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+Java                     0 secs              ████████████████████████░   95.79 % 
+Properties               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
 
 🔥 Editors: 
-IntelliJ IDEA            57 mins             █████████████████████████   100.00 % 
+IntelliJ IDEA            0 secs              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-springblog               56 mins             █████████████████████████   99.29 % 
-springblog-reference     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+springblog-reference     0 secs              █████████████████░░░░░░░░   66.78 % 
+springblog               0 secs              ████████░░░░░░░░░░░░░░░░░   33.22 % 
 
 💻 Operating System: 
-Mac                      57 mins             █████████████████████████   100.00 % 
+Mac                      0 secs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -98,7 +94,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/charlesaggasid/charlesaggasid/main/assets/bar_graph.png)
 
 
- Last Updated on 01/03/2025 18:43:23 UTC
+ Last Updated on 02/03/2025 18:45:38 UTC
 <!--END_SECTION:waka-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charlesaggasid&layout=compact)](https://github.com/charlesaggasid/github-readme-stats)
