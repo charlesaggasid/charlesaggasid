@@ -29,6 +29,8 @@ Software Developer with a background in office administration. Experience with o
 
 > 📦 96.2 kB Used in GitHub's Storage 
  > 
+> 🏆 23 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 30 Public Repositories 
@@ -91,7 +93,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/charlesaggasid/charlesaggasid/main/assets/bar_graph.png)
 
 
- Last Updated on 18/04/2025 18:47:20 UTC
+ Last Updated on 19/04/2025 18:44:46 UTC
 <!--END_SECTION:waka-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charlesaggasid&layout=compact)](https://github.com/charlesaggasid/github-readme-stats)
