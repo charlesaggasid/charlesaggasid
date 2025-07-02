@@ -21,6 +21,8 @@ Software Developer with a background in office administration. Experience with o
 ---
 ### 🔥 My Stats:
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-556%20hrs%2053%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 **🐱 My GitHub Data** 
@@ -91,7 +93,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/charlesaggasid/charlesaggasid/main/assets/bar_graph.png)
 
 
- Last Updated on 01/07/2025 18:51:30 UTC
+ Last Updated on 02/07/2025 18:52:26 UTC
 <!--END_SECTION:waka-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charlesaggasid&layout=compact)](https://github.com/charlesaggasid/github-readme-stats)
