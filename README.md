@@ -62,23 +62,16 @@ Sunday                   9 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-SQL                      46 mins             █████████░░░░░░░░░░░░░░░░   36.67 % 
-Java Properties          29 mins             ██████░░░░░░░░░░░░░░░░░░░   23.20 % 
-GitIgnore file           22 mins             █████░░░░░░░░░░░░░░░░░░░░   18.11 % 
-Groovy                   13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
-Java                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ IDEA            2 hrs 6 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-MoneyTracker             1 hr 16 mins        ███████████████░░░░░░░░░░   60.84 % 
-money-tracker            42 mins             ████████░░░░░░░░░░░░░░░░░   33.52 % 
-Books4Trade              6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
-springblog               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      2 hrs 6 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -98,7 +91,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/charlesaggasid/charlesaggasid/main/assets/bar_graph.png)
 
 
- Last Updated on 26/08/2025 18:49:28 UTC
+ Last Updated on 27/08/2025 18:48:05 UTC
 <!--END_SECTION:waka-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charlesaggasid&layout=compact)](https://github.com/charlesaggasid/github-readme-stats)
