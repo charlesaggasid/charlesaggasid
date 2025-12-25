@@ -64,21 +64,16 @@ Sunday                   9 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Java                     20 mins             ██████████████░░░░░░░░░░░   54.52 % 
-SQL                      11 mins             ████████░░░░░░░░░░░░░░░░░   30.20 % 
-Properties               3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
-Java Properties          1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
-GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ IDEA            37 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-asvab-app                29 mins             ████████████████████░░░░░   78.27 % 
-springblog               8 mins              █████░░░░░░░░░░░░░░░░░░░░   21.73 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      37 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -98,7 +93,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/charlesaggasid/charlesaggasid/main/assets/bar_graph.png)
 
 
- Last Updated on 24/12/2025 18:53:22 UTC
+ Last Updated on 25/12/2025 18:52:57 UTC
 <!--END_SECTION:waka-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charlesaggasid&layout=compact)](https://github.com/charlesaggasid/github-readme-stats)
