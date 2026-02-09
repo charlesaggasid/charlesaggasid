@@ -21,7 +21,7 @@ Software Developer with a background in office administration. Experience with o
 ---
 ### 🔥 My Stats:
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-559%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-561%20hrs%2048%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -64,21 +64,22 @@ Sunday                   10 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Java                     1 hr 32 mins        ███████████████████░░░░░░   75.91 % 
-Java Properties          15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
-GitIgnore file           9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
-Properties               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+Java                     4 hrs 3 mins        █████████████████████░░░░   84.39 % 
+Java Properties          15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
+Markdown                 10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
+GitIgnore file           9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
+Properties               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
 
 🔥 Editors: 
-IntelliJ IDEA            2 hrs 1 min         █████████████████████████   100.00 % 
+IntelliJ IDEA            4 hrs 48 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-my-visualized-family-tree1 hr 58 mins        ████████████████████████░   97.41 % 
-asvab-app                3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
+my-visualized-family-tree4 hrs 45 mins       █████████████████████████   98.91 % 
+asvab-app                3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Mac                      2 hrs 1 min         █████████████████████████   100.00 % 
+Mac                      4 hrs 48 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -98,7 +99,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/charlesaggasid/charlesaggasid/main/assets/bar_graph.png)
 
 
- Last Updated on 08/02/2026 19:03:00 UTC
+ Last Updated on 09/02/2026 19:48:11 UTC
 <!--END_SECTION:waka-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charlesaggasid&layout=compact)](https://github.com/charlesaggasid/github-readme-stats)
