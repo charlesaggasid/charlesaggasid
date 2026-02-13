@@ -65,7 +65,7 @@ Sunday                   10 commits          █░░░░░░░░░░�
 
 💬 Programming Languages: 
 Java                     4 hrs 55 mins       ██████████████████████░░░   86.75 % 
-Java Properties          15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
+Java Properties          15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
 Markdown                 10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
 GitIgnore file           9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
 Properties               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
@@ -99,7 +99,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/charlesaggasid/charlesaggasid/main/assets/bar_graph.png)
 
 
- Last Updated on 12/02/2026 19:34:05 UTC
+ Last Updated on 13/02/2026 19:26:05 UTC
 <!--END_SECTION:waka-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charlesaggasid&layout=compact)](https://github.com/charlesaggasid/github-readme-stats)
