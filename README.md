@@ -64,17 +64,16 @@ Sunday                   10 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Java                     1 hr 49 mins        █████████████████████████   100.00 % 
+Java                     50 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-IntelliJ IDEA            1 hr 49 mins        █████████████████████████   100.00 % 
+IntelliJ IDEA            50 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-my-visualized-family-tree58 mins             █████████████░░░░░░░░░░░░   53.77 % 
-java-2026                50 mins             ████████████░░░░░░░░░░░░░   46.23 % 
+java-2026                50 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      1 hr 49 mins        █████████████████████████   100.00 % 
+Mac                      50 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -94,7 +93,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/charlesaggasid/charlesaggasid/main/assets/bar_graph.png)
 
 
- Last Updated on 12/03/2026 19:25:37 UTC
+ Last Updated on 13/03/2026 19:10:08 UTC
 <!--END_SECTION:waka-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charlesaggasid&layout=compact)](https://github.com/charlesaggasid/github-readme-stats)
