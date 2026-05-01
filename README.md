@@ -29,13 +29,13 @@ Software Developer with a background in office administration. Experience with o
 
 > 📦 96.5 kB Used in GitHub's Storage 
  > 
-> 🏆 3 Contributions in the Year 2026
+> 🏆 4 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 30 Public Repositories 
  > 
-> 🔑 19 Private Repositories 
+> 🔑 20 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -79,11 +79,11 @@ No Activity Tracked This Week
 **I Mostly Code in Java** 
 
 ```text
-Java                     16 repos            ████████████░░░░░░░░░░░░░   47.06 % 
-HTML                     8 repos             ██████░░░░░░░░░░░░░░░░░░░   23.53 % 
-CSS                      4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
-JavaScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
-TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+Java                     17 repos            ████████████░░░░░░░░░░░░░   48.57 % 
+HTML                     8 repos             ██████░░░░░░░░░░░░░░░░░░░   22.86 % 
+CSS                      4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
+JavaScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
+TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
 ```
 
 
@@ -93,7 +93,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/charlesaggasid/charlesaggasid/main/assets/bar_graph.png)
 
 
- Last Updated on 30/04/2026 19:57:50 UTC
+ Last Updated on 01/05/2026 19:48:51 UTC
 <!--END_SECTION:waka-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charlesaggasid&layout=compact)](https://github.com/charlesaggasid/github-readme-stats)
