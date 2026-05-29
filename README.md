@@ -21,6 +21,8 @@ Software Developer with a background in office administration. Experience with o
 ---
 ### 🔥 My Stats:
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-567%20hrs%2058%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -35,6 +37,45 @@ Software Developer with a background in office administration. Experience with o
  > 
 > 🔑 21 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                136 commits         █████████░░░░░░░░░░░░░░░░   34.78 % 
+🌆 Daytime                174 commits         ███████████░░░░░░░░░░░░░░   44.50 % 
+🌃 Evening                81 commits          █████░░░░░░░░░░░░░░░░░░░░   20.72 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   68 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
+Tuesday                  93 commits          ██████░░░░░░░░░░░░░░░░░░░   23.79 % 
+Wednesday                65 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.62 % 
+Thursday                 76 commits          █████░░░░░░░░░░░░░░░░░░░░   19.44 % 
+Friday                   52 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
+Saturday                 27 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
+Sunday                   10 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Chicago
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Java** 
 
 ```text
@@ -52,7 +93,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/charlesaggasid/charlesaggasid/main/assets/bar_graph.png)
 
 
- Last Updated on 28/05/2026 20:56:54 UTC
+ Last Updated on 29/05/2026 20:59:08 UTC
 <!--END_SECTION:waka-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charlesaggasid&layout=compact)](https://github.com/charlesaggasid/github-readme-stats)
