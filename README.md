@@ -27,9 +27,9 @@ Software Developer with a background in office administration. Experience with o
 
 **🐱 My GitHub Data** 
 
-> 📦 96.6 kB Used in GitHub's Storage 
+> 📦 96.7 kB Used in GitHub's Storage 
  > 
-> 🏆 25 Contributions in the Year 2026
+> 🏆 27 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -40,21 +40,21 @@ Software Developer with a background in office administration. Experience with o
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                139 commits         █████████░░░░░░░░░░░░░░░░   36.87 % 
-🌆 Daytime                167 commits         ███████████░░░░░░░░░░░░░░   44.30 % 
-🌃 Evening                71 commits          █████░░░░░░░░░░░░░░░░░░░░   18.83 % 
+🌞 Morning                139 commits         █████████░░░░░░░░░░░░░░░░   36.68 % 
+🌆 Daytime                169 commits         ███████████░░░░░░░░░░░░░░   44.59 % 
+🌃 Evening                71 commits          █████░░░░░░░░░░░░░░░░░░░░   18.73 % 
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   68 commits          █████░░░░░░░░░░░░░░░░░░░░   18.04 % 
-Tuesday                  82 commits          █████░░░░░░░░░░░░░░░░░░░░   21.75 % 
-Wednesday                61 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
-Thursday                 64 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.98 % 
-Friday                   54 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
-Saturday                 22 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
-Sunday                   26 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
+Monday                   67 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.68 % 
+Tuesday                  82 commits          █████░░░░░░░░░░░░░░░░░░░░   21.64 % 
+Wednesday                61 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
+Thursday                 64 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.89 % 
+Friday                   54 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
+Saturday                 23 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
+Sunday                   28 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
 ```
 
 
@@ -85,10 +85,10 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in Java** 
 
 ```text
-Java                     13 repos            ██████████░░░░░░░░░░░░░░░   41.94 % 
+Java                     12 repos            ██████████░░░░░░░░░░░░░░░   38.71 % 
 HTML                     8 repos             ██████░░░░░░░░░░░░░░░░░░░   25.81 % 
 CSS                      4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
-JavaScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
+Rich Text Format         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
 TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
 ```
 
@@ -99,7 +99,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/charlesaggasid/charlesaggasid/main/assets/bar_graph.png)
 
 
- Last Updated on 17/10/2026 20:52:13 UTC
+ Last Updated on 18/10/2026 20:59:00 UTC
 <!--END_SECTION:waka-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charlesaggasid&layout=compact)](https://github.com/charlesaggasid/github-readme-stats)
